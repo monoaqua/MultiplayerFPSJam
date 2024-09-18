@@ -3,7 +3,7 @@
   <Loaded>true</Loaded>
   <PrefabGenerator>
     <Enabled>true</Enabled>
-    <LogToConsole>false</LogToConsole>
+    <LogToConsole>true</LogToConsole>
     <FullRebuild>false</FullRebuild>
     <SaveChanges>true</SaveChanges>
     <DefaultPrefabObjectsPath>Assets\Fishnet\DefaultPrefabObjects.asset</DefaultPrefabObjectsPath>

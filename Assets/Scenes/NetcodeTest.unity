@@ -505,10 +505,10 @@ RectTransform:
   m_Father: {fileID: 1691808222}
   m_RootOrder: -1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 0, y: 0}
+  m_AnchorMin: {x: 0, y: 1}
+  m_AnchorMax: {x: 0, y: 1}
+  m_AnchoredPosition: {x: 230, y: -202.95}
+  m_SizeDelta: {x: 460, y: 405.9}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &160955313
 MonoBehaviour:
@@ -1591,10 +1591,10 @@ RectTransform:
   m_Father: {fileID: 1691808222}
   m_RootOrder: -1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 0, y: 0}
+  m_AnchorMin: {x: 0, y: 1}
+  m_AnchorMax: {x: 0, y: 1}
+  m_AnchoredPosition: {x: 695, y: -202.95}
+  m_SizeDelta: {x: 460, y: 405.9}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1032852019
 MonoBehaviour:
@@ -2023,8 +2023,8 @@ MonoBehaviour:
   <SceneId>k__BackingField: 13189289762315027775
   <AssetPathHash>k__BackingField: 0
   _sceneNetworkObjects:
-  - {fileID: 1232609787}
   - {fileID: 293095321}
+  - {fileID: 1232609787}
   - {fileID: 1405443103}
   - {fileID: 1843424889}
   - {fileID: 3151195772633461244}
@@ -4333,8 +4333,7 @@ MonoBehaviour:
   <IsNested>k__BackingField: 0
   <ComponentIndex>k__BackingField: 0
   <PredictedSpawn>k__BackingField: {fileID: 0}
-  _networkBehaviours:
-  - {fileID: 1843424887}
+  _networkBehaviours: []
   <ParentNetworkObject>k__BackingField: {fileID: 0}
   <ChildNetworkObjects>k__BackingField: []
   _isNetworked: 1
@@ -4348,8 +4347,8 @@ MonoBehaviour:
   <SceneId>k__BackingField: 13189289760983832983
   <AssetPathHash>k__BackingField: 0
   _sceneNetworkObjects:
-  - {fileID: 1232609787}
   - {fileID: 293095321}
+  - {fileID: 1232609787}
   - {fileID: 1405443103}
   - {fileID: 1843424889}
   - {fileID: 3151195772633461244}

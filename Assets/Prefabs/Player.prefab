@@ -794,9 +794,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a2836e36774ca1c4bbbee976e17b649c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _componentIndexCache: 255
+  _componentIndexCache: 0
   _addedNetworkObject: {fileID: 4034112627445611558}
-  _networkObjectCache: {fileID: 0}
+  _networkObjectCache: {fileID: 4034112627445611558}
   _synchronizeParent: 0
   _packing:
     Position: 1
@@ -835,7 +835,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9d8f8f8385cfb464daf25079848119dc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _componentIndexCache: 0
+  _componentIndexCache: 1
   _addedNetworkObject: {fileID: 4034112627445611558}
   _networkObjectCache: {fileID: 4034112627445611558}
   canvas: {fileID: 2988883889868082318}
@@ -914,7 +914,9 @@ MonoBehaviour:
   <ComponentIndex>k__BackingField: 0
   <PredictedSpawn>k__BackingField: {fileID: 0}
   _networkBehaviours:
+  - {fileID: 8623607875159911544}
   - {fileID: -4677609798534111209}
+  - {fileID: 22089211794497368}
   <ParentNetworkObject>k__BackingField: {fileID: 0}
   <ChildNetworkObjects>k__BackingField: []
   _isNetworked: 1
@@ -1187,9 +1189,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a2836e36774ca1c4bbbee976e17b649c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _componentIndexCache: 255
+  _componentIndexCache: 2
   _addedNetworkObject: {fileID: 4034112627445611558}
-  _networkObjectCache: {fileID: 0}
+  _networkObjectCache: {fileID: 4034112627445611558}
   _synchronizeParent: 0
   _packing:
     Position: 1
